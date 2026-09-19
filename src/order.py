@@ -1,5 +1,5 @@
 ﻿"""Place a complete order by product name and show its price automatically."""
-from orderItem import Order
+from src.orderItem import Order
 
 
 def confirm_cancel():

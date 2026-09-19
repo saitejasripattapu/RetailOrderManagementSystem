@@ -1,6 +1,6 @@
 from src.customer import Customer, RegularCustomer, PremiumCustomer, CorporateCustomer
 from src.product import Product
-from src.order_cli import place_order, display_order
+from src.order import place_order, display_order
 
 
 def confirm_product_cancellation(updating):
